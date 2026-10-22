@@ -16,9 +16,9 @@ A language class moves between explanations, exercises and feedback. MELI brings
 
 ## From the course to the next task
 
-| Prepare | Practise | Review |
-| --- | --- | --- |
-| Organise course topics and learning materials. | Work through activities and topic checkpoints. | Return to progress and decide what needs attention. |
+- **Prepare.** Organise course topics and learning materials.
+- **Practise.** Work through activities and topic checkpoints.
+- **Review.** Return to progress and decide what needs attention.
 
 The focus is the teaching journey: what is available now, what comes next and what helps a learner move forward. AI supports that work within a course, with the teacher's purpose and review still central.
 
