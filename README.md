@@ -1,50 +1,62 @@
 <p align="center"><strong>MELI</strong></p>
 
-<h1 align="center">A clearer next step<br>for every language class.</h1>
+<h1 align="center">Bring the course into view.</h1>
 
 <p align="center">Course materials, practice and progress in one teaching workspace.</p>
 
 <p align="center"><a href="#from-the-course-to-the-next-task">Explore the experience</a> · <a href="https://cle-meli.hkust.edu.hk">Institutional sign-in</a> · <a href="#my-work-with-the-team">My contribution</a></p>
 
-<p align="center"><a href="assets/syllabus-planning.png"><img src="assets/meli-figma-01-final-20261023.png" alt="A course plan, ready to teach. A Figma campaign pairs MELI's purpose with the original syllabus editor, showing course modules, bilingual topic titles and teaching weeks." width="100%"></a></p>
+<p align="center"><a href="assets/syllabus-planning.png"><img src="assets/meli-figma-01-final-20261023.png" alt="MELI campaign card framing the original syllabus editor: bilingual course topics, modules and teaching weeks. Select it to inspect the unframed capture." width="100%"></a></p>
 
-<p align="center"><sub>Original production planning interface, captured on 23 October 2026; campaign layout curated in Figma. Student identities and individual records are excluded. Select the card to inspect the original crop.</sub></p>
+## Give the next lesson a place in the course
 
-## Less time finding the work. More time doing it.
+A language class moves between explanations, exercises and feedback. MELI connects those pieces to a course structure, so a teacher can organise the next activity and a learner can see where to begin.
 
-A language class moves between explanations, exercises and feedback. MELI brings those pieces into a course structure, so teachers can organise the next activity and learners can see where to begin.
+### Start with the whole term
+
+The syllabus workspace groups topics into modules and connects them to teaching weeks and assessment milestones. The plan makes the relationship between today's activity and the wider course visible.
+
+<details>
+<summary>Inspect the syllabus-planning screen</summary>
+
+<p align="center"><img src="assets/syllabus-planning.png" alt="The production MELI syllabus editor, showing bilingual topic titles grouped into modules with teaching weeks." width="650"></p>
+
+Captured on 23 October 2026. This crop isolates the planning panel and excludes student identities and assessment data. The syllabus was inspected without changing or saving it.
+
+</details>
 
 ## From the course to the next task
 
-- **Prepare.** Organise course topics and learning materials.
-- **Practise.** Work through activities and topic checkpoints.
-- **Review.** Return to progress and decide what needs attention.
+<p align="center"><a href="assets/course-checkpoints.jpg"><img src="assets/course-checkpoints.jpg" alt="MELI course-workspace capture showing course organisation and topic checkpoints, with student identities and individual records excluded." width="100%"></a></p>
 
-The focus is the teaching journey: what is available now, what comes next and what helps a learner move forward. AI supports that work within a course, with the teacher's purpose and review still central.
+**Prepare the course.** Organise topics and learning materials around what needs to be taught.
 
-[See the course-workspace capture](assets/course-checkpoints.jpg) · 21 October 2026, without student identities or individual records.
+**Move into practice.** Give the learner activities and topic checkpoints within that structure.
 
-### Give each topic its place in the term
+**Return to progress.** Review what has been covered and decide what needs attention next.
 
-The teacher workspace groups topics into modules and connects them to teaching weeks and assessment milestones. That makes the course plan visible before the next activity is prepared.
-
-<details>
-<summary>See the current syllabus-planning interface</summary>
-<p align="center"><img src="assets/syllabus-planning.png" alt="MELI syllabus editor showing bilingual topic titles grouped into modules with teaching weeks" width="650"></p>
-<p>Actual production interface, 23 October 2026. This crop isolates the planning panel and excludes student identities and assessment data. Inspected without changing or saving the syllabus.</p>
-</details>
+AI supports these teaching workflows within the course. The teacher's purpose and review guide what the system is meant to help with.
 
 ## My work with the team
 
-MELI is a team project. My contributions include learning workflows, assessment materials, analysis and university sign-in integration. Working on it has meant connecting educational requirements with screens, system behaviour and repeated review.
+MELI is a team project. My contributions include learning workflows, assessment materials, analysis and university sign-in integration.
 
-That is also the part of my process I share when mentoring: start with the people using the system, make the intended experience visible, build it, then inspect what actually happens.
+The work connects educational requirements with the interface and the system behind it: how a topic is organised, how an activity fits the course and how people reach the workspace. Those connections are part of building a teaching tool that has to make sense beyond a single screen.
 
-## Development status
+[Explore the project organisation](https://github.com/Meliedu) · [Read my contribution notes](https://github.com/EricEremos/EricEremos/blob/main/work/README.md#meli)
 
-This page presents the current course-platform work. It is not a public student sign-up or a claim of institutional endorsement. The implementation, authenticated services and student records remain private.
+## Access and project status
 
-[Project organisation](https://github.com/Meliedu) · [Contribution notes](https://github.com/EricEremos/EricEremos/blob/main/work/README.md#meli)
+MELI is an institutional course platform; access to the live workspace requires sign-in. This public showcase presents the course-platform work, while the implementation, authenticated services and student records remain private.
+
+<details>
+<summary>About the captures</summary>
+
+The planning interface was captured from production on 23 October 2026. The course-workspace capture is dated 21 October 2026. Student identities and individual records are excluded from both. The hero campaign was curated in Figma around the original planning interface; select it to view the original crop.
+
+This showcase describes my contributions to a team project and does not represent institutional endorsement.
+
+</details>
 
 ---
 
