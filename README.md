@@ -6,9 +6,9 @@
 
 <p align="center"><a href="#from-the-course-to-the-next-task">Explore the experience</a> · <a href="https://cle-meli.hkust.edu.hk">Institutional sign-in</a> · <a href="#my-work-with-the-team">My contribution</a></p>
 
-<p align="center"><img src="assets/course-checkpoints.jpg" alt="MELI course workspace with topic checkpoints and a course-progress overview" width="100%"></p>
+<p align="center"><a href="assets/syllabus-planning.png"><img src="assets/meli-figma-01-final-20261023.png" alt="A course plan, ready to teach. A Figma campaign pairs MELI's purpose with the original syllabus editor, showing course modules, bilingual topic titles and teaching weeks." width="100%"></a></p>
 
-<p align="center"><sub>Actual course-workspace capture, 21 October 2026. A view of the interface, without student identities or individual records.</sub></p>
+<p align="center"><sub>Original production planning interface, captured on 23 October 2026; campaign layout curated in Figma. Student identities and individual records are excluded. Select the card to inspect the original crop.</sub></p>
 
 ## Less time finding the work. More time doing it.
 
@@ -21,6 +21,8 @@ A language class moves between explanations, exercises and feedback. MELI brings
 - **Review.** Return to progress and decide what needs attention.
 
 The focus is the teaching journey: what is available now, what comes next and what helps a learner move forward. AI supports that work within a course, with the teacher's purpose and review still central.
+
+[See the course-workspace capture](assets/course-checkpoints.jpg) · 21 October 2026, without student identities or individual records.
 
 ### Give each topic its place in the term
 
