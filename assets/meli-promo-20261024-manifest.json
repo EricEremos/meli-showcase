@@ -1,0 +1,93 @@
+{
+  "product": "MELI",
+  "edition": "2026-10-24",
+  "film": {
+    "duration_seconds": 24.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "audio": "silent"
+  },
+  "production": {
+    "visual_author": "Claude delivery, supplied 24 October 2026",
+    "integration": "Codex removed administrative on-screen provenance footers; real UI and material caveats retained.",
+    "transformations": [
+      "framing",
+      "cropping",
+      "scaling",
+      "camera motion",
+      "marketing type",
+      "illustrative animation"
+    ],
+    "ui_policy": "Real UI source pixels are not repainted. Overlays and composition do not imply observed interaction."
+  },
+  "capture_dates": {
+    "demo-data screens": "2026-10-04",
+    "production syllabus crop": "2026-10-23"
+  },
+  "sources_sha256": {
+    "teacher-course-boxes-1440.png": "205ba3e0b1fbd101820cac2b2170375e9d0099106cf7a37a01f86f65fa16670c",
+    "teacher-courses-c1-setup-1440.png": "f5fa18ee4761df8429cbc5b2a720d4732ca4b9e9c5789405e12019a80cbbc40f",
+    "meli-syllabus-planning-20261023.png": "f36487aa370971c5bb5061e2d6015a53035d8232b678753f756936521abff7af",
+    "teacher-courses-c1-quiz-q-preview-1440.png": "60425321160792ad57fe8da02d705e810cbb9879a7c0f582e92739b2f4ccf1f3",
+    "student-student-dashboard-1440.png": "72e26373d86c1497fee871315c1ff1de2532fe5d05670e0d92ea9d95e4918063",
+    "student-student-courses-c1-assignments-a1-1440.png": "01f218ebdc743a0a65cec655054137c4e465e3449de5012384736387cd4f8924"
+  },
+  "context": "University team project with institutional sign-in. The film combines demo-data screens captured on 4 October 2026 with a privacy-reviewed production syllabus crop from 23 October 2026. The teacher reviews questions and score policy before publishing.",
+  "limits": [
+    "Demo records are not student records.",
+    "Screens show product workflows, not measured learning outcomes or institutional endorsement.",
+    "Institutional sign-in is required for the live platform."
+  ],
+  "verification": {
+    "full_mp4_decode": "passed",
+    "decoded_frames": 576,
+    "source_pixel_checks": [
+      {
+        "t": 3.9,
+        "source": "teacher-course-boxes-1440.png",
+        "pixel_identical": true
+      },
+      {
+        "t": 6.7,
+        "source": "teacher-courses-c1-setup-1440.png",
+        "pixel_identical": true
+      },
+      {
+        "t": 10.1,
+        "source": "meli-syllabus-planning-20261023.png",
+        "pixel_identical": true
+      },
+      {
+        "t": 13.3,
+        "source": "teacher-courses-c1-quiz-q-preview-1440.png",
+        "pixel_identical": true
+      },
+      {
+        "t": 16.9,
+        "source": "student-student-dashboard-1440.png",
+        "pixel_identical": true
+      },
+      {
+        "t": 20.2,
+        "source": "student-student-courses-c1-assignments-a1-1440.png",
+        "pixel_identical": true
+      }
+    ],
+    "scope": "Checks attest decoded media and sampled source-pixel preservation, not product efficacy."
+  },
+  "assets": {
+    "assets/meli-promo-20261024.gif": {
+      "bytes": 3131518,
+      "sha256": "f8822f004f2d1fc927d2f5bd23b4828b9eaaa642850a1301b7b919fdf6f7f6d8"
+    },
+    "assets/meli-promo-20261024.mp4": {
+      "bytes": 1554003,
+      "sha256": "e8a0f316c50a423a109a60a0b6c0b1d6d3aafed1c496e1056642e9f9c9797b1c"
+    },
+    "assets/meli-promo-20261024-poster.png": {
+      "bytes": 225584,
+      "sha256": "b23a6d46d6a4a9778af5e5128c7ddf3ee069805b7eb743bc14a20b267eec3292"
+    }
+  }
+}

@@ -8,6 +8,14 @@
 
 <p align="center"><a href="assets/syllabus-planning.png"><img src="assets/meli-figma-01-final-20261023.png" alt="MELI campaign card framing the original syllabus editor: bilingual course topics, modules and teaching weeks. Select it to inspect the unframed capture." width="100%"></a></p>
 
+## Watch the product film
+
+<p align="center"><a href="assets/meli-promo-20261024.mp4"><img src="assets/meli-promo-20261024.gif" alt="MELI film showing course setup, a syllabus plan, quiz review and the learner workspace using real product captures." width="100%"></a></p>
+
+[Watch the full MP4](assets/meli-promo-20261024.mp4) · [Open the still frame](assets/meli-promo-20261024-poster.png) · [Capture and production details](assets/meli-promo-20261024-manifest.json)
+
+University team project with institutional sign-in. The film combines demo-data screens captured on 4 October 2026 with a privacy-reviewed production syllabus crop from 23 October 2026. The teacher reviews questions and score policy before publishing.
+
 ## Give the next lesson a place in the course
 
 A language class moves between explanations, exercises and feedback. MELI connects those pieces to a course structure, so a teacher can organise the next activity and a learner can see where to begin.
