@@ -6,9 +6,9 @@
 
 <p align="center"><a href="#from-the-course-to-the-next-task">Explore the experience</a> · <a href="https://cle-meli.hkust.edu.hk">Institutional sign-in</a> · <a href="#my-work-with-the-team">My contribution</a></p>
 
-<p align="center"><a href="assets/meli-promo-20261024.mp4"><img src="assets/meli-promo-20261024.gif" alt="MELI film: a 13-week honeycomb leads into the teacher dashboard, course overview, syllabus plan and quiz review, then the student's next assignment." width="100%"></a></p>
+<p align="center"><a href="assets/meli-promo-20261024.mp4"><img src="assets/meli-promo-20261024.gif" alt="MELI film in a honeycomb: each beat shows one sentence, one number and one real screen with its key part ringed in honey: 4 courses and 113 students, 84% completion this week, a 13-week plan, one question ready to publish, and the student's week 4 of 13." width="100%"></a></p>
 
-<p align="center"><sub>University team project with institutional sign-in. The film uses demo-data screens of released components, with no real students, plus a privacy-reviewed production syllabus crop, all captured in October 2026. The teacher reviews a question and its score policy before publishing; the film does not show questions being generated.</sub><br><a href="assets/meli-promo-20261024.mp4">Watch the full film</a> · <a href="assets/meli-promo-20261024-poster.png">Still frame</a> · <a href="assets/meli-promo-20261024-manifest.json">Capture details</a></p>
+<p align="center"><sub>Team project with institutional access. Animated product screenshots: a demo-data preview (no real students; nothing was changed or saved) plus the production syllabus editor. The screens show reviewing and publishing, not question generation.</sub><br><a href="assets/meli-promo-20261024.mp4">Watch the full film</a> · <a href="assets/meli-promo-20261024-poster.png">Still frame</a> · <a href="assets/meli-promo-20261024-manifest.json">Capture details</a></p>
 
 ## Give the next lesson a place in the course
 

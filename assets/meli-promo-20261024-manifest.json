@@ -1,96 +1,38 @@
 {
  "product": "meli",
- "edition": "2026-10-24 (latest film)",
+ "edition": "revision 7 (owner-approved, 24 Oct 2026)",
  "film": {
   "duration_seconds": 23.9,
   "width": 1920,
   "height": 1080,
   "fps": 30,
   "audio": "silent",
-  "readme_loop": "the full film"
+  "readme_loop": "the full film",
+  "mp4": "review encode of the master (CRF 24, faststart)"
  },
- "production": {
-  "visual_author": "Claude, HyperFrames (HTML and GSAP rendered in Chrome)",
-  "principle": "Original product interface pixels are scaled, cropped and moved; campaign type and motion sit around them. No on-screen provenance labels; qualifications live here and beside the film."
+ "qualification": "Team project with institutional access. Animated product screenshots: a demo-data preview (no real students; nothing was changed or saved) plus the production syllabus editor. The screens show reviewing and publishing, not question generation.",
+ "source_package": {
+  "path": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/claude-motion-20261023/rev7",
+  "master_sha256": "fed9a8db1a5b7073f329227cbb499c56a6a6394a5350ca2b95843210f845881f",
+  "review_sha256": "2935834d3d3e29039ac3a56ff9949b84acf85dbdfd0c623a05c096817cad4513",
+  "poster_sha256": "8077f1f17a9baa13a4e6872e5905e738b2aad99291d9a8736055bb6881954347"
  },
- "qualification": "University team project with institutional sign-in. The film uses demo-data screens of released components, with no real students, plus a privacy-reviewed production syllabus crop, all captured in October 2026. The teacher reviews a question and its score policy before publishing; the film does not show questions being generated.",
- "sources": {
-  "courses": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/meli-teacher-flow-01a10297-20261004/teacher-course-boxes-1440.png",
-   "sha256": "205ba3e0b1fbd101820cac2b2170375e9d0099106cf7a37a01f86f65fa16670c",
-   "note": "original bytes; displayed with uniform CSS scaling only"
-  },
-  "setup": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/meli-teacher-flow-01a10297-20261004/teacher-courses-c1-setup-1440.png",
-   "sha256": "f5fa18ee4761df8429cbc5b2a720d4732ca4b9e9c5789405e12019a80cbbc40f",
-   "note": "original bytes; displayed with uniform CSS scaling only"
-  },
-  "syllabus": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/assets/meli-syllabus-planning-20261023.png",
-   "sha256": "f36487aa370971c5bb5061e2d6015a53035d8232b678753f756936521abff7af",
-   "note": "original bytes; displayed with uniform CSS scaling only"
-  },
-  "quiz": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/meli-teacher-flow-01a10297-20261004/teacher-courses-c1-quiz-q-preview-1440.png",
-   "sha256": "60425321160792ad57fe8da02d705e810cbb9879a7c0f582e92739b2f4ccf1f3",
-   "note": "original bytes; displayed with uniform CSS scaling only"
-  },
-  "home": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/meli-teacher-flow-01a10297-20261004/student-student-dashboard-1440.png",
-   "sha256": "72e26373d86c1497fee871315c1ff1de2532fe5d05670e0d92ea9d95e4918063",
-   "note": "original bytes; displayed with uniform CSS scaling only"
-  },
-  "assign": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/meli-teacher-flow-01a10297-20261004/student-student-courses-c1-assignments-a1-1440.png",
-   "sha256": "01f218ebdc743a0a65cec655054137c4e465e3449de5012384736387cd4f8924",
-   "note": "original bytes; displayed with uniform CSS scaling only"
-  },
-  "n-dashboard": {
-   "source": "MELI origin/main 1b0a73c0 (8 Oct 2026) frontend, rendered with the 4 Oct demo-data preview harness (meli-teacher-flow-01a10297) at 1440x1000 by Claude, 23 Oct 2026",
-   "sha256": "37faa26603ae461a3f253822479d2754a5506ebc3050ab26144860b5a9758e0b",
-   "note": "demo data, no real students"
-  },
-  "n-overview": {
-   "source": "MELI origin/main 1b0a73c0 (8 Oct 2026) frontend, rendered with the 4 Oct demo-data preview harness (meli-teacher-flow-01a10297) at 1440x1000 by Claude, 23 Oct 2026",
-   "sha256": "fd595cc43df862a390b5536594a08435e4a5961e90fadcd560d16cdafb4a638b",
-   "note": "demo data, no real students"
-  },
-  "n-setup": {
-   "source": "MELI origin/main 1b0a73c0 (8 Oct 2026) frontend, rendered with the 4 Oct demo-data preview harness (meli-teacher-flow-01a10297) at 1440x1000 by Claude, 23 Oct 2026",
-   "sha256": "54a434ac6a3f840764a5600f202c1ea14145ec89b6ab7794ce71591803afba8c",
-   "note": "demo data, no real students"
-  },
-  "n-quiz": {
-   "source": "MELI origin/main 1b0a73c0 (8 Oct 2026) frontend, rendered with the 4 Oct demo-data preview harness (meli-teacher-flow-01a10297) at 1440x1000 by Claude, 23 Oct 2026",
-   "sha256": "810d234eae123be89efa72e3d2f52a92246d41e51ed55aa40e8c1787d1be8de1",
-   "note": "demo data, no real students"
-  },
-  "n-scourse": {
-   "source": "MELI origin/main 1b0a73c0 (8 Oct 2026) frontend, rendered with the 4 Oct demo-data preview harness (meli-teacher-flow-01a10297) at 1440x1000 by Claude, 23 Oct 2026",
-   "sha256": "40f547405d7a31716534bb4ae6b0e7ba3827177476ce16cf0a79a88e537b70f6",
-   "note": "demo data, no real students"
-  },
-  "n-assign": {
-   "source": "MELI origin/main 1b0a73c0 (8 Oct 2026) frontend, rendered with the 4 Oct demo-data preview harness (meli-teacher-flow-01a10297) at 1440x1000 by Claude, 23 Oct 2026",
-   "sha256": "8ce7b57cba72f072eb98591e04655a423c4a1ef8e2e314e0f592daefd460cc71",
-   "note": "demo data, no real students"
-  }
- },
+ "principle": "Original interface pixels with campaign type and motion around them; no on-screen provenance labels.",
  "files": {
   "mp4": {
    "path": "assets/meli-promo-20261024.mp4",
-   "bytes": 2919516,
-   "sha256": "544bc3993d2cc0e33edfe2099320717cc8e4ed88f04e963afcd73a2375ffeca7"
+   "bytes": 871291,
+   "sha256": "2935834d3d3e29039ac3a56ff9949b84acf85dbdfd0c623a05c096817cad4513"
   },
   "gif": {
    "path": "assets/meli-promo-20261024.gif",
-   "bytes": 8585381,
-   "sha256": "49751a97874057e617a96dcbaa5468fb9181165e50a45d8cfecd224db8840c3f"
+   "bytes": 1266775,
+   "sha256": "659c4a47a3f87c52382cf758d2a5700997ab3aa55d73e1673f33ba620cca06d6"
   },
   "poster": {
    "path": "assets/meli-promo-20261024-poster.png",
-   "bytes": 775516,
-   "sha256": "298233bcd4017d2cd85b354d2b2b9d072125e8aa53e914d882d67a834d6d0de7"
+   "bytes": 226515,
+   "sha256": "8077f1f17a9baa13a4e6872e5905e738b2aad99291d9a8736055bb6881954347"
   }
  }
 }
