@@ -10,11 +10,11 @@
 
 ## Watch the product film
 
-<p align="center"><a href="assets/meli-promo-20261024.mp4"><img src="assets/meli-promo-20261024.gif" alt="MELI film showing course setup, a syllabus plan, quiz review and the learner workspace using real product captures." width="100%"></a></p>
+<p align="center"><a href="assets/meli-promo-20261024.mp4"><img src="assets/meli-promo-20261024.gif" alt="MELI film: a 13-week honeycomb leads into the teacher dashboard, course overview, syllabus plan and quiz review, then the student's next assignment." width="100%"></a></p>
 
-[Watch the full MP4](assets/meli-promo-20261024.mp4) · [Open the still frame](assets/meli-promo-20261024-poster.png) · [Capture and production details](assets/meli-promo-20261024-manifest.json)
+[Watch the full film (MP4)](assets/meli-promo-20261024.mp4) · [Open the still frame](assets/meli-promo-20261024-poster.png) · [Capture and production details](assets/meli-promo-20261024-manifest.json)
 
-University team project with institutional sign-in. The film combines demo-data screens captured on 4 October 2026 with a privacy-reviewed production syllabus crop from 23 October 2026. The teacher reviews questions and score policy before publishing.
+University team project with institutional sign-in. The film uses demo-data screens of released components, with no real students, plus a privacy-reviewed production syllabus crop, all captured in October 2026. The teacher reviews a question and its score policy before publishing; the film does not show questions being generated.
 
 ## Give the next lesson a place in the course
 
